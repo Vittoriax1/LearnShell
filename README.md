@@ -1,6 +1,8 @@
 # LearnShell
 LearnShell platform
 
+## Section 1
+
 ### First lesson - Echo
 echo "Hello World"
 This will print something to the CLI.
@@ -19,3 +21,14 @@ echo "Hello World!""
 ### Fourth lesson - TODO
 A TODO comment marks a future task that needs to be completed.
 "#TODO: Add error handling here"
+
+### Fifth lesson - pwd
+The command "pwd" will print the current directory that you are in (if it is not part of the prompt).
+To use it, type "pwd".
+
+### Sixth lesson - list files
+The command "ls" will show you  on the screen a list of files and any nested directories. To use it, type "ls". To add options, which will provide additional information, you can use the following:
+ls - a general list of the contents of the directory
+ls -l - shows a detailed list of the contents of a directory, with information such as file size, permissions and dates
+ls -a - shows all files, even those that are hidden
+ls -al - shows all files will all of the information.
